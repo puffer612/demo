@@ -1,0 +1,10 @@
+sit:
+  api:
+    host: http://192.168.11.206:8081/apiservice
+  env:
+    code: sit
+test:
+  api:
+    host: http://192.168.11.206:8081/apiservice
+  env:
+    code: test
